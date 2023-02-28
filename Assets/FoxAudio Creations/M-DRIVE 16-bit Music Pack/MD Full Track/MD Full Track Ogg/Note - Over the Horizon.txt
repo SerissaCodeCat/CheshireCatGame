@@ -1,0 +1,9 @@
+PLEASE NOTE
+
+The track "MDEnd_Over the Horizon 1.0 One-Shot.ogg" is bundled here for convenience, but unlike the
+other tracks in this folder, it is a One-Shot track and contains no loop comments! It will not loop
+seamlessly from midway through the track. It will only play from start to finish.
+
+For a looping version, please use the Intro-Loop version, either with or without the opening, or the
+Single Loop version. The Intro-Loop tracks will loop seamlessly in RPG Maker. The Single Loop tracks
+are designed to play from start to finish and loop as seamlessly as possible, in any engine.
